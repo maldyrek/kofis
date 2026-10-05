@@ -1,0 +1,10 @@
+Automat Is Machine When You Select Your Product You Can Get It.
+
+Instruction
+1. Select Your Product "print" (proszę wybrać produkt)
+2. Pay For Product "use" terminal to pay (192.168.1.50) Username: admin Password: 5678mald
+3. Verify By Scanning Your ID Card To RFID Scanner (rfid-8787-0009) print "scan your id card"
+4. Write Your ID Code "write XXXX Code" to while.
+CODES:
+2168,2334,8900,7656,0012,5644,1238,0756,1112,2346,7611,9992,9878,0234,8787,0002.5547.0924
+5. End
