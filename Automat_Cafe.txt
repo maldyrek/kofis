@@ -8,3 +8,12 @@ Instruction
 CODES:
 2168,2334,8900,7656,0012,5644,1238,0756,1112,2346,7611,9992,9878,0234,8787,0002.5547.0924
 5. End
+6. Products List
+A1. Small Chocolate 
+B2. Small Shake Dark
+C3. Small Shake White
+D4. Small Machiato
+E5. Small Capucino 
+F6. Small Latté
+G7. Small Tea
+H8. Small Soup
