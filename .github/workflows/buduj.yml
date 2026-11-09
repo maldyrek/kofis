@@ -1,0 +1,21 @@
+name: Budowanie Aplikacji EXE
+on:
+  push:
+    branches: [ "main", "master" ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+    - name: Pobranie kodu z repozytorium
+      uses: actions/checkout@v4
+
+    - name: Kompilacja kodu C++ do EXE
+      run: g++ code.cpp -o Kofis_Node_Manager.exe -static
+
+    - name: Udostepnienie gotowego pliku
+      uses: actions/upload-artifact@v4
+      with:
+        name: Kofis-Aplikacja-Windows
+        path: Kofis_Node_Manager.exe
