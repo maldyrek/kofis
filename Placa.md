@@ -71,5 +71,16 @@ Oficjalną Liste Znajdziesz w biurze KOFIS lub na kofislist@kofis.net.
 250 USD / Godzina (42,000 USD / Miesiecznie) **Klauzula 10% Niższe Zarobki W Skali Roku**
 # Majster (Doświadczenie)
 50 USD / Godzina (8,000 USD / Miesiecznie)  **Klauzula 5% Niższe Zarobki W Skali Roku**
-DALEJ
+To Tyle
+
+## Informacje
+Forma: Tylko Etat 12 Godzin Dziennie
+Spotkania Zarządu: Co Miesiąc
+Wymóg: Niekaralny, Zaświadczenie NESA-C
+Wiek: 18-49 Lat
+Okres Umowy: 4 Lata Z Możliwoscią Przedłużenia
+Opieka: Zdrowotno-Prawna
+
+PODPIS: Maldyrek Issued
+
 
